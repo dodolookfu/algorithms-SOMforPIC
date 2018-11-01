@@ -11,4 +11,4 @@
 <p> 5.執行3與4直到完成訓練 </p>
 <p> 6.輸出結果 </p>
 
-<p> 可以參考影片上的操作 https://youtu.be/zEt23z9TRNQ </p>
+<p> 可以參考影片上的操作 <a href="https://youtu.be/zEt23z9TRNQ">DEMO影片連結</a> </p>
